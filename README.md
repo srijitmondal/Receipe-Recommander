@@ -21,4 +21,4 @@ A web application that recommends recipes based on the ingredients you have in y
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-MIT
+[MIT License](LICENSE)

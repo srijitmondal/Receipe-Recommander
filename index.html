@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Recommender</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>MAKE THE BEST OUT OF YOUR FRIDGE !!<B></h1>
+    <h2>Please enter your Ingredient choices below to find the best Recipes :-</h2>
+    <form id="ingredient-form">
+        <label for="ingredient1">1st Ingredient : </label>
+        <input type="text" id="ingredient1" name="ingredient1" required>
+        <br>
+        <label for="ingredient2">2nd Ingredient : </label>
+        <input type="text" id="ingredient2" name="ingredient2" required>
+        <br>
+        <label for="ingredient3">3rd Ingredient : </label>
+        <input type="text" id="ingredient3" name="ingredient3" required>
+        <br>
+        <button type="submit"><h4><b>Find Best Recipes</b></h4></button>
+    </form>
+    <div id="recipes"></div>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,9 +1,9 @@
 
-<h1 align="center">Recipe <img src="https://i.postimg.cc/vZGTFVyq/record-8329-512.gif" width=100 /> Recommender</h1>
+<h1 align="center">Recipe <img src="https://i.postimg.cc/sgQJZx1J/giphy.gif" width=100 /> Recommender</h1>
 
 <h3 align="center">A web application that recommends recipes based on the ingredients you have in your fridge</h3>
 
-<img src="https://i.postimg.cc/sgQJZx1J/giphy.gif" width=100 />
+
 
 
 ## Features

@@ -21,6 +21,13 @@ A web application that recommends recipes based on the ingredients you have in y
 - Click the "Find Best Recipes" button.
 - View the recommended recipes in the "Recipes" section.
 
+## Gallery 
+
+![githu](https://i.postimg.cc/66LXMC44/Screenshot-20240603-100438.png)
+![githu](https://i.postimg.cc/qqLHgdHx/Screenshot-20240603-100608.png)
+![githu](https://i.postimg.cc/MHx8WpNG/Screenshot-20240603-100912.png)
+
+
 ## Contributing
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

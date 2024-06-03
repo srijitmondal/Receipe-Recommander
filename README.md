@@ -3,6 +3,9 @@
 
 <h3 align="center">A web application that recommends recipes based on the ingredients you have in your fridge</h3>
 
+<img src="https://i.postimg.cc/sgQJZx1J/giphy.gif" width=100 />
+
+
 ## Features
 - User-friendly interface for entering ingredients
 - Real-time recipe recommendations based on entered ingredients

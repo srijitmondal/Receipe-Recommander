@@ -8,7 +8,7 @@ A web application that recommends recipes based on the ingredients you have in y
 
 ## Visit Me
 
-Experience the Web Application here [receiperecommender.com](receiperecommender.netlify.app)
+Experience the Web Application here <a href="receiperecommender.netlify.app" target="_blank">reciperecommender.com</a>
 
 ## Technologies Used
 - HTML<p align="left"> 

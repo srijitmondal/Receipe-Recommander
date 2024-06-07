@@ -13,7 +13,7 @@
 
 ## Visit Me
 
-- 👨‍🍳👩‍🍳🥘🍳🔪🍚 Click here for trying recipes <a href="https://receiperecommender.netlify.app" target="_blank">Recipe Recommendation Website</a>
+- 👨‍🍳👩‍🍳🥘🍳🔪🍚 Click here for trying recipes ~ <a href="https://receiperecommender.netlify.app" target="_blank">Recipe Recommendation Website</a>
 
 ## Technologies Used
 - HTML<p align="left"> 

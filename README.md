@@ -8,7 +8,7 @@
 
 Recipe Recommender is a simple yet powerful web application that helps users find the best recipes based on ingredients they already have at home. This project allows users to input up to three ingredients and provides real-time recipe suggestions that are easy to follow and prepare. Perfect for reducing food waste and getting creative with limited ingredients!
 
-- **Live Demo:** [Recipe Recommender](https://receiperecommender.netlify.app)
+- **Live Demo of the Application:** [Recipe Recommender](https://receiperecommender.netlify.app)
 
 ---
 
